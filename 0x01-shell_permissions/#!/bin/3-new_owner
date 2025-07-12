@@ -1,1 +1,2 @@
-Task 3: Change file owner of hello to betty
+#!/bin/bash
+chown betty hello
