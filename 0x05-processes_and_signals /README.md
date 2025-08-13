@@ -1,1 +1,1 @@
-this script contains process and signals
+this is containing script process and signals
